@@ -7,3 +7,6 @@
 [submodule "ModuleGeneratorCommand"]
 	path = ModuleGeneratorCommand
 	url = https://github.com/DevOlegKosarev/ModuleGeneratorCommand.git
+[submodule "MakeVendorCommand"]
+	path = MakeVendorCommand
+	url = https://github.com/DevOlegKosarev/MakeVendorCommand.git
