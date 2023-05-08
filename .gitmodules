@@ -1,0 +1,9 @@
+[submodule "CronJobCommand"]
+	path = CronJobCommand
+	url = https://github.com/DevOlegKosarev/CronJobCommand.git
+[submodule "DiffCsvLibrary"]
+	path = DiffCsvLibrary
+	url = https://github.com/DevOlegKosarev/DiffCsvLibrary.git
+[submodule "ModuleGeneratorCommand"]
+	path = ModuleGeneratorCommand
+	url = https://github.com/DevOlegKosarev/ModuleGeneratorCommand.git
